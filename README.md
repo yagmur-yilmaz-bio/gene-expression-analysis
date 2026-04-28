@@ -9,13 +9,11 @@ The goal of this project is to simulate a real-world bioinformatics/data science
 ---
 
 ## Dataset
-The dataset consists of:
-- `data.csv` → gene expression features (801 samples, 20,532 genes)
-- `labels.csv` → sample labels (e.g., classification of samples)
+This project uses publicly avaliable gene expression datasetes from Kaggle.
 
-After merging, the final dataset contains:
-- 801 samples
-- 20,534 features (including labels)
+Due to size constraints (>100MB GitHub limit), the full dataset is not included in this repository.
+You can access it here: https://www.kaggle.com/datasets/waalbannyantudre/gene-expression-cancer-rna-seq-donated-on-682016/data
+
 
 ---
 
@@ -52,10 +50,6 @@ After merging, the final dataset contains:
 ### 6. Database Integration
 - Stored processed data in SQLite database (`gene_data.db`).
 - Executed SQL queries using `sqlite3`.
-
-### 7. Export
-- Exported cleaned dataset to CSV.
-- Exported sample dataset to Excel (`gene_expression_sample.xlsx`).
 
 ---
 
