@@ -15,6 +15,17 @@ Due to size constraints (>100MB GitHub limit), the full dataset is not included 
 You can access it here: https://www.kaggle.com/datasets/waalbannyantudre/gene-expression-cancer-rna-seq-donated-on-682016/data
 
 
+The processed data and outputs are avaliable below:
+
+[Access Processed Data] (]https://drive.google.com/drive/folders/1l7HhFUaAUwQZBvIdTEtVDMp4GT6A2LDn?usp=drive_link)
+
+Contents:
+-Cleaned dataset (CSV)
+- Excel sample output
+- SQLite database file (.db)
+
+These files demonstrate the data cleaning, transformation and database integration steps used in this project.
+
 ---
 
 ## Technologies Used
@@ -51,7 +62,11 @@ You can access it here: https://www.kaggle.com/datasets/waalbannyantudre/gene-ex
 - Stored processed data in SQLite database (`gene_data.db`).
 - Executed SQL queries using `sqlite3`.
 
----
+### 7. Export 
+- Exported cleaned dataset to CSV.
+- Exported sample dataset to Excel ('gene_expression_sample.xlsx').
+
+-----
 
 ## Outputs
 - `cleaned_dataset.csv`
