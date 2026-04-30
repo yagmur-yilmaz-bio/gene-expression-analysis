@@ -20,9 +20,9 @@ The processed data and outputs are avaliable below:
 [Access Processed Data] (https://drive.google.com/drive/folders/1l7HhFUaAUwQZBvIdTEtVDMp4GT6A2LDn?usp=drive_link)
 
 Contents:
--Cleaned dataset (CSV)
 - Excel sample output
 - SQLite database file (.db)
+- Cleaned dataset (CSV)
 
 These files demonstrate the data cleaning, transformation and database integration steps used in this project.
 
