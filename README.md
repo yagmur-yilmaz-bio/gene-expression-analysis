@@ -17,7 +17,7 @@ You can access it here: https://www.kaggle.com/datasets/waalbannyantudre/gene-ex
 
 The processed data and outputs are avaliable below:
 
-[Access Processed Data] (]https://drive.google.com/drive/folders/1l7HhFUaAUwQZBvIdTEtVDMp4GT6A2LDn?usp=drive_link)
+[Access Processed Data] (https://drive.google.com/drive/folders/1l7HhFUaAUwQZBvIdTEtVDMp4GT6A2LDn?usp=drive_link)
 
 Contents:
 -Cleaned dataset (CSV)
